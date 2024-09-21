@@ -1,0 +1,1 @@
+Nombre: Harlen, Edad: 20, Salario: 560000, Tipo: Empleado Contratado
